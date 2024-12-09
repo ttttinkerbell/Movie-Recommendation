@@ -1,1 +1,9 @@
 streamlit
+pandas
+numpy
+scikit-learn
+hashlib
+json
+zipfile
+category_encoders
+plotly
