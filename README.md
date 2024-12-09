@@ -17,6 +17,7 @@ We also provide users with statistically relevant data, including their rating r
 This movie analysis and recommendation system is designed to provide users with personalized movie recommendation results. Users can register, log in and rate movies from an extensive database. This application uses tested recommendation algorithms and demonstrates our recommendation algorithms and models to users. Based on our model, we recommend movies that suit individual preferences. Additionally, users can explore movies similar to their favorites, analyze their rating trends, and discover other users with similar tastes.
 
 Main features:
+
 Find movies: Search for movies, view details and provide ratings.
 Recommendation: Make movie recommendations based on personal preferences and identify like-minded users.
 User analytics: Visualize rating trends, distribution, and preferences across types and time.
